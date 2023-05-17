@@ -11,3 +11,4 @@ if(strlen($_SESSION['ad_id'])==0)
 	}
 }
 ?>
+

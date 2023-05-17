@@ -108,7 +108,7 @@
                                 </ul>
                             </li>
 
-                            <li>
+                            <!-- <li>
                                 <a href="javascript: void(0);">
                                     <i class="mdi mdi-cash-multiple "></i>
                                     <span> Accounting </span>
@@ -132,8 +132,9 @@
                                     
                                     
                                 </ul>
-                            </li>
-                            <li>
+                            </li> -->
+
+                            <!-- <li>
                                 <a href="javascript: void(0);">
                                     <i class=" fas fa-funnel-dollar "></i>
                                     <span> Inventory </span>
@@ -150,7 +151,7 @@
                                     </li>
                                     
                                 </ul>
-                            </li>
+                            </li> -->
                 
                             <li>
                                 <a href="javascript: void(0);">
@@ -275,7 +276,7 @@
                                 </ul>
                             </li>
 
-                            <li>
+                            <!-- <li>
                                 <a href="javascript: void(0);">
                                     <i class="fas fa-user-tag"></i>
                                     <span> Vendors </span>
@@ -290,7 +291,7 @@
                                     </li>
                                     
                                 </ul>
-                            </li>
+                            </li> -->
                             <li>
                                 <a href="javascript: void(0);">
                                     <i class="fas fa-lock"></i>

@@ -4,26 +4,7 @@
   include('assets/inc/checklogin.php');
   check_login();
   $doc_id=$_SESSION['doc_id'];
-  /*
-  if(isset($_GET['delete']))
-  {
-        $id=intval($_GET['delete']);
-        $adn="delete from his_patients where pat_id=?";
-        $stmt= $mysqli->prepare($adn);
-        $stmt->bind_param('i',$id);
-        $stmt->execute();
-        $stmt->close();	 
-  
-          if($stmt)
-          {
-            $success = "Vehicle Removed";
-          }
-            else
-            {
-                $err = "Try Again Later";
-            }
-    }
-    */
+
 ?>
 
 <!DOCTYPE html>

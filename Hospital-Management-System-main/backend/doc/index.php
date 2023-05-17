@@ -20,7 +20,7 @@
                 header("location:his_doc_dashboard.php");
             }
 
-        else
+        else    
             {
             #echo "<script>alert('Access Denied Please Check Your Credentials');</script>";
                 $err = "Access Denied Please Check Your Credentials";
@@ -39,7 +39,7 @@
         <meta content="" name="MartDevelopers" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <!-- App favicon -->
-        <link rel="shortcut icon" href="assets/images/favicon.ico">
+        <link rel="shortcut icon" href="assets/images/favicon.png">
 
         <!-- App css -->
         <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
@@ -112,27 +112,7 @@
 
                                 </form>
 
-                                <!--
-                                For Now Lets Disable This 
-                                This feature will be implemented on later versions
-                                <div class="text-center">
-                                    <h5 class="mt-3 text-muted">Sign in with</h5>
-                                    <ul class="social-list list-inline mt-3 mb-0">
-                                        <li class="list-inline-item">
-                                            <a href="javascript: void(0);" class="social-list-item border-primary text-primary"><i class="mdi mdi-facebook"></i></a>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <a href="javascript: void(0);" class="social-list-item border-danger text-danger"><i class="mdi mdi-google"></i></a>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <a href="javascript: void(0);" class="social-list-item border-info text-info"><i class="mdi mdi-twitter"></i></a>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <a href="javascript: void(0);" class="social-list-item border-secondary text-secondary"><i class="mdi mdi-github-circle"></i></a>
-                                        </li>
-                                    </ul>
-                                </div> 
-                                -->
+                                
 
                             </div> <!-- end card-body -->
                         </div>
