@@ -25,6 +25,13 @@ SET time_zone = "+00:00";
 --
 -- Table structure for table `his_accounts`
 --
+DROP DATABASE IF EXISTS `ja`;
+CREATE DATABASE `ja`; 
+USE `ja`;
+
+SET NAMES utf8 ;
+SET character_set_client = utf8mb4 ;
+
 
 CREATE TABLE `his_accounts` (
   `acc_id` int(200) NOT NULL,
