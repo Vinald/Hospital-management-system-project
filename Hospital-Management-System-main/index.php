@@ -51,13 +51,16 @@
                 <div class="col-lg-8">
                     <h4 style="color:red;">Treatment that is unqiue and affordable</h4>
                     <h1 style="color: blue;">AT JA HOSPITAL</h1>
-                    <p style="color: white; font-size:17px;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+
+                    <p style="color: white; font-size:17px;">
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
                         Perferendis, obcaecati repellendus. 
                         Atque laboriosam ex veritatis porro labore est nemo fugit!
                         Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
                         Perferendis, obcaecati repellendus. 
                         Atque laboriosam ex veritatis porro labore est nemo fugit!
                     </p>
+                    
                 </div>
             </div>
         </div>
