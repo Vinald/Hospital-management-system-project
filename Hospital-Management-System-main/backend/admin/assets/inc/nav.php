@@ -8,7 +8,7 @@
     //$cnt=1;
     while($row=$res->fetch_object())
     {
-?>
+?> 
     <div class="navbar-custom">
         <ul class="list-unstyled topnav-menu float-right mb-0">
 

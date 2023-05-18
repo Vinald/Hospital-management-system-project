@@ -33,7 +33,7 @@
     
 <head>
         <meta charset="utf-8" />
-        <title>Hospital Management System -A Super Responsive Information System</title>
+        <title>JA Hospital Management System </title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta content="" name="description" />
         <meta content="" name="MartDevelopers" />
@@ -97,7 +97,7 @@
                                 <form method='post' >
 
                                     <div class="form-group mb-3">
-                                        <label for="emailaddress">Doctor Number</label>
+                                        <label for="emailaddress">Employee's Number</label>
                                         <input class="form-control" name="doc_number" type="text" id="emailaddress" required="" placeholder="Enter your doctor number">
                                     </div>
 

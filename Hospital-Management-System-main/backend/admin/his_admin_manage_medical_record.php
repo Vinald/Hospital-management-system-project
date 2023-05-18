@@ -14,7 +14,7 @@
         $stmt->close();	 
   
           if($stmt)
-          {
+          { 
             $success = "Medical Records Deleted";
           }
             else
