@@ -7,16 +7,16 @@
   if(isset($_GET['delete_mdr_number']))
   {
         $id=intval($_GET['delete_mdr_number']);
-        $adn="DELETE FROM his_medical_records WHERE  mdr_number = ?";
+        $adn="delete from his_medical_records where  mdr_number = ?";
         $stmt= $mysqli->prepare($adn);
-        $stmt->bind_param('i',$id);
+        $stmt->bind_param('s',$id);
         $stmt->execute();
         $stmt->close();	 
   
           if($stmt)
           { 
             $success = "Medical Records Deleted";
-          }
+          }    
             else
             {
                 $err = "Try Again Later";

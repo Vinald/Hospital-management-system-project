@@ -34,7 +34,7 @@
                 </div>
                 <nav id="nav-menu-container">
                     <ul class="nav-menu">
-                        <!--<li class="menu-active"><a href="index.php" style="color: blue; font-size: 15px";></a></li>-->
+                       
                         <li><a href="backend/doc/index.php" style="color: blue; font-size: 15px">Employee's Login</a></li>
                         <li><a href="backend/admin/index.php" style="color: blue; font-size: 15px">Administrator Login</a></li>
                     </ul>
